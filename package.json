@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/LearnBoost/monk.git"
+    "url": "git@github.com:RomanGorbatko/monk-rg.git"
   },
   "dependencies": {
     "mongoskin": "0.4.4",
@@ -20,22 +20,22 @@
     "mocha": "*",
     "expect.js": "0.1.x"
   },
-  "_id": "monk@0.7.1",
+  "_id": "monk-rg@0.1",
   "description": "[![build status](https://secure.travis-ci.org/LearnBoost/monk.png?branch=master)](https://secure.travis-ci.org/LearnBoost/monk)",
   "dist": {
     "shasum": "90e71c3bb63cf5be3b0c2249dfd3d5056a949d01",
     "tarball": "http://registry.npmjs.org/monk/-/monk-0.7.1.tgz"
   },
-  "_from": "monk@0.7.1",
+  "_from": "monk-rg@0.1",
   "_npmVersion": "1.2.10",
   "_npmUser": {
-    "name": "rauchg",
-    "email": "rauchg@gmail.com"
+    "name": "romangorbatko",
+    "email": "romangorbatko@gmail.com"
   },
   "maintainers": [
     {
-      "name": "rauchg",
-      "email": "rauchg@gmail.com"
+      "name": "romangorbatko",
+      "email": "romangorbatko@gmail.com"
     }
   ],
   "directories": {},
