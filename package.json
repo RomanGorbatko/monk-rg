@@ -1,44 +1,34 @@
 {
   "name": "monk-rg",
-  "version": "0.1",
+  "version": "1.0.0",
+  "description": "The wise MongoDB API",
   "main": "lib/monk.js",
-  "tags": [
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "debug": "^2.1.0",
+    "mongoskin": "^0.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RomanGorbatko/monk-rg.git"
+  },
+  "keywords": [
     "mongodb",
     "mongo",
     "driver",
-      "group"
+    "group"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:RomanGorbatko/monk-rg.git"
+  "author": "Roman Gotbatko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RomanGorbatko/monk-rg/issues"
   },
-  "dependencies": {
-    "mongoskin": "0.4.4",
-    "debug": "*"
-  },
-  "devDependencies": {
-    "mocha": "*",
-    "expect.js": "0.1.x"
-  },
-  "_id": "monk-rg@0.1",
-  "description": "[![build status](https://secure.travis-ci.org/LearnBoost/monk.png?branch=master)](https://secure.travis-ci.org/LearnBoost/monk)",
-  "dist": {
-    "shasum": "90e71c3bb63cf5be3b0c2249dfd3d5056a949d01",
-    "tarball": "http://registry.npmjs.org/monk/-/monk-0.7.1.tgz"
-  },
-  "_from": "monk-rg@0.1",
-  "_npmVersion": "1.2.10",
-  "_npmUser": {
-    "name": "romangorbatko",
-    "email": "romangorbatko@gmail.com"
-  },
-  "maintainers": [
-    {
-      "name": "romangorbatko",
-      "email": "romangorbatko@gmail.com"
-    }
-  ],
-  "directories": {},
-  "_shasum": "90e71c3bb63cf5be3b0c2249dfd3d5056a949d01",
-  "_resolved": "https://registry.npmjs.org/monk/-/monk-0.7.1.tgz"
+  "homepage": "https://github.com/RomanGorbatko/monk-rg"
 }
