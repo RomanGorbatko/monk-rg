@@ -1,5 +1,7 @@
 # monk
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/RomanGorbatko/monk-rg?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![build status](https://secure.travis-ci.org/LearnBoost/monk.png?branch=master)](https://secure.travis-ci.org/LearnBoost/monk)
 
 Monk is a tiny layer that provides simple yet substantial usability
